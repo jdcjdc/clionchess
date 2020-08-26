@@ -1,0 +1,3 @@
+/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles/ex01.dir
