@@ -80,7 +80,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.h">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.h">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.h">
+			<Option target="ex01"/>
+		</Unit>
 		<Unit filename="/Users/jandc/wss_sources/clion/ex01/main.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/main/ChessTemplate.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/main/ChessTemplate.h">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.h">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/moves/FixedMovesPerPieceClassicChess.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/moves/FixedMovesPerPieceClassicChess.h">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/utilities/contstants.cpp">
+			<Option target="ex01"/>
+		</Unit>
+		<Unit filename="/Users/jandc/wss_sources/clion/ex01/utilities/contstants.h">
 			<Option target="ex01"/>
 		</Unit>
 		<Unit filename="/Users/jandc/wss_sources/clion/ex01/CMakeLists.txt">

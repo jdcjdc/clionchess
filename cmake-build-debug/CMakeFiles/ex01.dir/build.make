@@ -90,17 +90,122 @@ CMakeFiles/ex01.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/main.cpp -o CMakeFiles/ex01.dir/main.cpp.s
 
+CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o: ../main/ClassicChessTemplate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o -c /Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.cpp
+
+CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.cpp > CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.i
+
+CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.cpp -o CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.s
+
+CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o: ../factories/BoardFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o -c /Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.cpp
+
+CMakeFiles/ex01.dir/factories/BoardFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/factories/BoardFactory.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.cpp > CMakeFiles/ex01.dir/factories/BoardFactory.cpp.i
+
+CMakeFiles/ex01.dir/factories/BoardFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/factories/BoardFactory.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.cpp -o CMakeFiles/ex01.dir/factories/BoardFactory.cpp.s
+
+CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o: ../constants/ClassicChessConstants.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o -c /Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.cpp
+
+CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.cpp > CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.i
+
+CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.cpp -o CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.s
+
+CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o: ../moves/FixedMovesPerPieceClassicChess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o -c /Users/jandc/wss_sources/clion/ex01/moves/FixedMovesPerPieceClassicChess.cpp
+
+CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/moves/FixedMovesPerPieceClassicChess.cpp > CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.i
+
+CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/moves/FixedMovesPerPieceClassicChess.cpp -o CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.s
+
+CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o: ../boards/BoardClassical.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o -c /Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.cpp
+
+CMakeFiles/ex01.dir/boards/BoardClassical.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/boards/BoardClassical.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.cpp > CMakeFiles/ex01.dir/boards/BoardClassical.cpp.i
+
+CMakeFiles/ex01.dir/boards/BoardClassical.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/boards/BoardClassical.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.cpp -o CMakeFiles/ex01.dir/boards/BoardClassical.cpp.s
+
+CMakeFiles/ex01.dir/utilities/contstants.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/utilities/contstants.cpp.o: ../utilities/contstants.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ex01.dir/utilities/contstants.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/utilities/contstants.cpp.o -c /Users/jandc/wss_sources/clion/ex01/utilities/contstants.cpp
+
+CMakeFiles/ex01.dir/utilities/contstants.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/utilities/contstants.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/utilities/contstants.cpp > CMakeFiles/ex01.dir/utilities/contstants.cpp.i
+
+CMakeFiles/ex01.dir/utilities/contstants.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/utilities/contstants.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/utilities/contstants.cpp -o CMakeFiles/ex01.dir/utilities/contstants.cpp.s
+
+CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o: CMakeFiles/ex01.dir/flags.make
+CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o: ../main/ChessTemplate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o -c /Users/jandc/wss_sources/clion/ex01/main/ChessTemplate.cpp
+
+CMakeFiles/ex01.dir/main/ChessTemplate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex01.dir/main/ChessTemplate.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jandc/wss_sources/clion/ex01/main/ChessTemplate.cpp > CMakeFiles/ex01.dir/main/ChessTemplate.cpp.i
+
+CMakeFiles/ex01.dir/main/ChessTemplate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex01.dir/main/ChessTemplate.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jandc/wss_sources/clion/ex01/main/ChessTemplate.cpp -o CMakeFiles/ex01.dir/main/ChessTemplate.cpp.s
+
 # Object files for target ex01
 ex01_OBJECTS = \
-"CMakeFiles/ex01.dir/main.cpp.o"
+"CMakeFiles/ex01.dir/main.cpp.o" \
+"CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o" \
+"CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o" \
+"CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o" \
+"CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o" \
+"CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o" \
+"CMakeFiles/ex01.dir/utilities/contstants.cpp.o" \
+"CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o"
 
 # External object files for target ex01
 ex01_EXTERNAL_OBJECTS =
 
 ex01: CMakeFiles/ex01.dir/main.cpp.o
+ex01: CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o
+ex01: CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o
+ex01: CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o
+ex01: CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o
+ex01: CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o
+ex01: CMakeFiles/ex01.dir/utilities/contstants.cpp.o
+ex01: CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o
 ex01: CMakeFiles/ex01.dir/build.make
 ex01: CMakeFiles/ex01.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ex01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jandc/wss_sources/clion/ex01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable ex01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ex01.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

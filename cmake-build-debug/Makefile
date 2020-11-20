@@ -143,6 +143,87 @@ ex01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/build
 .PHONY : ex01/fast
 
+boards/BoardClassical.o: boards/BoardClassical.cpp.o
+
+.PHONY : boards/BoardClassical.o
+
+# target to build an object file
+boards/BoardClassical.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/boards/BoardClassical.cpp.o
+.PHONY : boards/BoardClassical.cpp.o
+
+boards/BoardClassical.i: boards/BoardClassical.cpp.i
+
+.PHONY : boards/BoardClassical.i
+
+# target to preprocess a source file
+boards/BoardClassical.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/boards/BoardClassical.cpp.i
+.PHONY : boards/BoardClassical.cpp.i
+
+boards/BoardClassical.s: boards/BoardClassical.cpp.s
+
+.PHONY : boards/BoardClassical.s
+
+# target to generate assembly for a file
+boards/BoardClassical.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/boards/BoardClassical.cpp.s
+.PHONY : boards/BoardClassical.cpp.s
+
+constants/ClassicChessConstants.o: constants/ClassicChessConstants.cpp.o
+
+.PHONY : constants/ClassicChessConstants.o
+
+# target to build an object file
+constants/ClassicChessConstants.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.o
+.PHONY : constants/ClassicChessConstants.cpp.o
+
+constants/ClassicChessConstants.i: constants/ClassicChessConstants.cpp.i
+
+.PHONY : constants/ClassicChessConstants.i
+
+# target to preprocess a source file
+constants/ClassicChessConstants.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.i
+.PHONY : constants/ClassicChessConstants.cpp.i
+
+constants/ClassicChessConstants.s: constants/ClassicChessConstants.cpp.s
+
+.PHONY : constants/ClassicChessConstants.s
+
+# target to generate assembly for a file
+constants/ClassicChessConstants.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/constants/ClassicChessConstants.cpp.s
+.PHONY : constants/ClassicChessConstants.cpp.s
+
+factories/BoardFactory.o: factories/BoardFactory.cpp.o
+
+.PHONY : factories/BoardFactory.o
+
+# target to build an object file
+factories/BoardFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/factories/BoardFactory.cpp.o
+.PHONY : factories/BoardFactory.cpp.o
+
+factories/BoardFactory.i: factories/BoardFactory.cpp.i
+
+.PHONY : factories/BoardFactory.i
+
+# target to preprocess a source file
+factories/BoardFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/factories/BoardFactory.cpp.i
+.PHONY : factories/BoardFactory.cpp.i
+
+factories/BoardFactory.s: factories/BoardFactory.cpp.s
+
+.PHONY : factories/BoardFactory.s
+
+# target to generate assembly for a file
+factories/BoardFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/factories/BoardFactory.cpp.s
+.PHONY : factories/BoardFactory.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -170,6 +251,114 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+main/ChessTemplate.o: main/ChessTemplate.cpp.o
+
+.PHONY : main/ChessTemplate.o
+
+# target to build an object file
+main/ChessTemplate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ChessTemplate.cpp.o
+.PHONY : main/ChessTemplate.cpp.o
+
+main/ChessTemplate.i: main/ChessTemplate.cpp.i
+
+.PHONY : main/ChessTemplate.i
+
+# target to preprocess a source file
+main/ChessTemplate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ChessTemplate.cpp.i
+.PHONY : main/ChessTemplate.cpp.i
+
+main/ChessTemplate.s: main/ChessTemplate.cpp.s
+
+.PHONY : main/ChessTemplate.s
+
+# target to generate assembly for a file
+main/ChessTemplate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ChessTemplate.cpp.s
+.PHONY : main/ChessTemplate.cpp.s
+
+main/ClassicChessTemplate.o: main/ClassicChessTemplate.cpp.o
+
+.PHONY : main/ClassicChessTemplate.o
+
+# target to build an object file
+main/ClassicChessTemplate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.o
+.PHONY : main/ClassicChessTemplate.cpp.o
+
+main/ClassicChessTemplate.i: main/ClassicChessTemplate.cpp.i
+
+.PHONY : main/ClassicChessTemplate.i
+
+# target to preprocess a source file
+main/ClassicChessTemplate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.i
+.PHONY : main/ClassicChessTemplate.cpp.i
+
+main/ClassicChessTemplate.s: main/ClassicChessTemplate.cpp.s
+
+.PHONY : main/ClassicChessTemplate.s
+
+# target to generate assembly for a file
+main/ClassicChessTemplate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/main/ClassicChessTemplate.cpp.s
+.PHONY : main/ClassicChessTemplate.cpp.s
+
+moves/FixedMovesPerPieceClassicChess.o: moves/FixedMovesPerPieceClassicChess.cpp.o
+
+.PHONY : moves/FixedMovesPerPieceClassicChess.o
+
+# target to build an object file
+moves/FixedMovesPerPieceClassicChess.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.o
+.PHONY : moves/FixedMovesPerPieceClassicChess.cpp.o
+
+moves/FixedMovesPerPieceClassicChess.i: moves/FixedMovesPerPieceClassicChess.cpp.i
+
+.PHONY : moves/FixedMovesPerPieceClassicChess.i
+
+# target to preprocess a source file
+moves/FixedMovesPerPieceClassicChess.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.i
+.PHONY : moves/FixedMovesPerPieceClassicChess.cpp.i
+
+moves/FixedMovesPerPieceClassicChess.s: moves/FixedMovesPerPieceClassicChess.cpp.s
+
+.PHONY : moves/FixedMovesPerPieceClassicChess.s
+
+# target to generate assembly for a file
+moves/FixedMovesPerPieceClassicChess.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/moves/FixedMovesPerPieceClassicChess.cpp.s
+.PHONY : moves/FixedMovesPerPieceClassicChess.cpp.s
+
+utilities/contstants.o: utilities/contstants.cpp.o
+
+.PHONY : utilities/contstants.o
+
+# target to build an object file
+utilities/contstants.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/utilities/contstants.cpp.o
+.PHONY : utilities/contstants.cpp.o
+
+utilities/contstants.i: utilities/contstants.cpp.i
+
+.PHONY : utilities/contstants.i
+
+# target to preprocess a source file
+utilities/contstants.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/utilities/contstants.cpp.i
+.PHONY : utilities/contstants.cpp.i
+
+utilities/contstants.s: utilities/contstants.cpp.s
+
+.PHONY : utilities/contstants.s
+
+# target to generate assembly for a file
+utilities/contstants.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex01.dir/build.make CMakeFiles/ex01.dir/utilities/contstants.cpp.s
+.PHONY : utilities/contstants.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -179,9 +368,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ex01"
+	@echo "... boards/BoardClassical.o"
+	@echo "... boards/BoardClassical.i"
+	@echo "... boards/BoardClassical.s"
+	@echo "... constants/ClassicChessConstants.o"
+	@echo "... constants/ClassicChessConstants.i"
+	@echo "... constants/ClassicChessConstants.s"
+	@echo "... factories/BoardFactory.o"
+	@echo "... factories/BoardFactory.i"
+	@echo "... factories/BoardFactory.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... main/ChessTemplate.o"
+	@echo "... main/ChessTemplate.i"
+	@echo "... main/ChessTemplate.s"
+	@echo "... main/ClassicChessTemplate.o"
+	@echo "... main/ClassicChessTemplate.i"
+	@echo "... main/ClassicChessTemplate.s"
+	@echo "... moves/FixedMovesPerPieceClassicChess.o"
+	@echo "... moves/FixedMovesPerPieceClassicChess.i"
+	@echo "... moves/FixedMovesPerPieceClassicChess.s"
+	@echo "... utilities/contstants.o"
+	@echo "... utilities/contstants.i"
+	@echo "... utilities/contstants.s"
 .PHONY : help
 
 

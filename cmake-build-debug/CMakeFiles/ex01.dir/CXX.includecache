@@ -6,7 +6,29 @@
 
 #IncludeRegexTransform: 
 
+/Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.h
+
+/Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.h
+
+/Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.h
+../boards/BoardClassical.h
+/Users/jandc/wss_sources/clion/ex01/boards/BoardClassical.h
+../constants/ClassicChessConstants.h
+/Users/jandc/wss_sources/clion/ex01/constants/ClassicChessConstants.h
+
 /Users/jandc/wss_sources/clion/ex01/main.cpp
 iostream
 -
+main/ClassicChessTemplate.h
+/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.h
+
+/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.cpp
+iostream
+-
+ClassicChessTemplate.h
+/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.h
+
+/Users/jandc/wss_sources/clion/ex01/main/ClassicChessTemplate.h
+../factories/BoardFactory.h
+/Users/jandc/wss_sources/clion/ex01/factories/BoardFactory.h
 
